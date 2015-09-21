@@ -18,3 +18,6 @@ Like class blah{
 }
 
 So basically just php and oop and whatever idk im extremly bored and just messing around
+
+##New decision
+I might make this into like a tutorial thing but would anyone care? If you do fork the project ^_^

@@ -4,8 +4,11 @@
 class person{
 
 
- public var $name;
+ var $name;
  
+ public function __construct($personName){
+  $this->name = $personName;
+ }
 
  public function setName($newName){
   $this->name = $newName;
